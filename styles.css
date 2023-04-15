@@ -1,0 +1,32 @@
+body {
+
+}
+
+.section-one {
+    background-color: #1f2937;
+}
+
+.header {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+a,
+.hero-subtext {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.hero {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+ul {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+}
