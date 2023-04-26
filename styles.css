@@ -136,7 +136,7 @@ button {
 
 
 /*********************************************************
-                        Section four 
+                        Section four & footer
 *********************************************************/
 
 .section-four {
@@ -164,4 +164,11 @@ button {
 
 .section-four >* button {
     border: 2px solid #e5e7eb;
+}
+
+.footer {
+    background-color: #1F2937;
+    text-align: center;
+    color: #E5E7EB;
+    padding: 20px;
 }
