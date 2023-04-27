@@ -18,6 +18,10 @@ html, body {
     /* margin: 16px 230px; */
 }
 
+.logo {
+    height: 30px;
+}
+
 ul {
     list-style: none;
     display: flex;
